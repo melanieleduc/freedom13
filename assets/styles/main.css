@@ -425,6 +425,9 @@ ul.list-inline {
       margin: 0;
     }
 
+  .testimonial__images img {
+    border-radius: 50%;
+  }
   @media ( min-width: 50em ) {
     .testimonial {
       display: flex;

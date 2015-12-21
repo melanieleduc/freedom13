@@ -240,11 +240,11 @@
                 <div class="testimonial">
                   <div class="testimonial__images">
                     <figure>
-                      <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
+                      <img src="assets/images/marybefore.jpg" alt="Mary Before" width="186" height="186">
                       <figcaption>Before</figcaption>
                     </figure>
                     <figure>
-                      <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                      <img src="assets/images/maryafter.jpg" alt="Mary After" width="186" height="186">
                       <figcaption>After</figcaption>
                     </figure>
                   </div>
@@ -276,11 +276,11 @@
                 <div class="testimonial">
                   <div class="testimonial__images">
                     <figure>
-                      <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
+                      <img src="assets/images/cattibefore.jpg" alt="Catti Before" width="186" height="186">
                       <figcaption>Before</figcaption>
                     </figure>
                     <figure>
-                      <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                      <img src="assets/images/cattiafter.jpg" alt="Catti After" width="186" height="186">
                       <figcaption>After</figcaption>
                     </figure>
                   </div>
