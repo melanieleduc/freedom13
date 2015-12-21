@@ -297,11 +297,13 @@ ul.list-inline {
   .story * {
     color: white;
   }
-  .story > img {
-    height: 200px;
-    width: auto;
+  .story-slider {
     margin: 1em;
   }
+    .story-slider img {
+      width: 100%;
+      height: auto;
+    }
 
   .story .list-inline li {
     width: 10em;
@@ -312,9 +314,9 @@ ul.list-inline {
       margin-left: 280px;
       margin-right: 280px;
       max-width: none;
-      width: auto;
+      width: 725px;
     }
-    .story > img {
+    .story-slider {
       position: absolute;
       top: 50%;
       margin: -245px 0 0 0;
@@ -322,7 +324,7 @@ ul.list-inline {
       width: 240px;
       height: 489px;
     }
-    .story > img:last-of-type {
+    .story-slider--right {
       left: auto;
       right: 0;
     }

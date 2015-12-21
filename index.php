@@ -84,7 +84,7 @@
           <div class="process-steps__slider">
 
             <!-- Slider main container -->
-            <div class="swiper-container swiper-container--team">
+            <div class="swiper-container">
                 <!-- Additional required wrapper -->
 
                 <ul class="swiper-wrapper slider">
@@ -147,8 +147,26 @@
       </aside>
 
       <section class="section story">
-        <img src="assets/images/Kris_before1.jpg" alt="Kris (before)" width="518" height="1054">
-        <img src="assets/images/Kris_after2.jpg" alt="Kris (after)" width="518" height="1054">
+        <div class="story-slider story-slider--left">
+          <div class="swiper-container">
+              <ul class="swiper-wrapper slider">
+                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before1.jpg"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before2.jpg"></li>
+              </ul>
+              <div class="swiper-pagination swiper-pagination--1"></div>
+          </div>
+        </div>
+        <div class="story-slider story-slider--right">
+          <div class="swiper-container">
+              <ul class="swiper-wrapper slider">
+                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after1.jpg"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after2.jpg"></li>
+              </ul>
+              <div class="swiper-pagination swiper-pagination--2"></div>
+          </div>
+        </div>
+        <!-- <img src="assets/images/Kris_before1.jpg" alt="Kris (before)" width="518" height="1054">
+        <img src="assets/images/Kris_after2.jpg" alt="Kris (after)" width="518" height="1054"> -->
         <div class="wrap">
           <h1>MY STORY</h1>
           <h2>I USED TO BE OVERWEIGHT, unhealthy AND UNHAPPY</h2>
@@ -242,7 +260,7 @@
               </li>
             </ul>
             <!-- If we need pagination -->
-            <div class="swiper-pagination swiper-pagination--1"></div>
+            <div class="swiper-pagination swiper-pagination--3"></div>
 
           </div>
 
