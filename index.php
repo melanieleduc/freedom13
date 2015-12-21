@@ -206,19 +206,19 @@
 
           <ul class="list-inline">
             <li>
-              <img src="http://placehold.it/150x150" alt="Kristina Chester" width="150" height="150">
+              <img src="assets/images/team/kristina.jpg" alt="Kristina" width="150" height="150">
               <h3 class="blue">Kristina Chester</h3>
-              <p>Registered Dietician</p>
+              <p class="text-upper">Registered Dietician</p>
             </li>
             <li>
-              <img src="assets/images/Kris-Simpson.jpg" alt="Kris Simpson" width="150" height="150">
+              <img src="assets/images/team/kris-simpson.jpg" alt="Kris Simpson" width="150" height="150">
               <h3 class="blue">Kris Simpson</h3>
-              <p>body transformation coach</p>
+              <p class="text-upper">body transformation coach</p>
             </li>
             <li>
-              <img src="http://placehold.it/150x150" alt="Noreen Kassam" width="150" height="150">
+              <img src="assets/images/team/noreen.jpg" alt="Noreen" width="150" height="150">
               <h3 class="blue">Noreen Kassam</h3>
-              <p>Psychosomatic Practitioner</p>
+              <p class="text-upper">Psychosomatic Practitioner</p>
             </li>
           </ul>
         </div>

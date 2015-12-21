@@ -84,6 +84,10 @@ figure {
   text-align: center;
 }
 
+.text-upper {
+  text-transform: uppercase;
+}
+
 .contain {
   overflow: hidden;
 }
@@ -336,6 +340,11 @@ ul.list-inline {
 }
   .team img {
     border-radius: 50%;
+  }
+
+  .team .list-inline p,
+  .team .list-inline h3 {
+    margin: 0;
   }
 
 /**** PROGRAM DEMOGRAPHIC ****/
