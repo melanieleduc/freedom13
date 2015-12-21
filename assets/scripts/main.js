@@ -11,7 +11,7 @@ $(function() {
       var slider = new Swiper('.s'+index, {
         direction: 'horizontal',
         loop: true,
-        pagination: '.swiper-pagination',
+        pagination: '.swiper-pagination--' + index,
       });
       sliders.push(slider);
 

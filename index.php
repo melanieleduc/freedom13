@@ -84,36 +84,37 @@
           <div class="process-steps__slider">
 
             <!-- Slider main container -->
-            <div class="swiper-container">
+            <div class="swiper-container swiper-container--team">
                 <!-- Additional required wrapper -->
 
                 <ul class="swiper-wrapper slider">
-                  <li class="swiper-slide"><img src="assets/images/freedom-13-team.jpg" alt="Freedom 13 Team"></li>
-                  <li class="swiper-slide"><img src="assets/images/freedom-13-team.jpg" alt="Freedom 13 Team"></li>
-                  <li class="swiper-slide"><img src="assets/images/freedom-13-team.jpg" alt="Freedom 13 Team"></li>
+                  <li class="swiper-slide"><img src="assets/images/gallery-1/group_1.jpg"></li>
+                  <li class="swiper-slide"><img src="assets/images/gallery-1/group_2.jpg"></li>
+                  <li class="swiper-slide"><img src="assets/images/gallery-1/group_3.jpg"></li>
+                  <li class="swiper-slide"><img src="assets/images/gallery-1/group_4.jpg"></li>
                 </ul>
                 <!-- If we need pagination -->
-                <div class="swiper-pagination"></div>
+                <div class="swiper-pagination swiper-pagination--0"></div>
 
             </div>
           </div>
           <ul class="process-steps__list">
             <li>
-              <img src="assets/images/icon_bike.png" width="64" height="64" alt="Icon Bike">
+              <img src="assets/images/icon_apple.png" width="64" height="64" alt="Icon Apple">
               <div class="contain">
                 <h3>WEEKLY GROUP SEMINARS</h3>
                 <p>Learn the simple fundamentals of nutrition, exercise, lifestyle and weight management with the support of a group.</p>
               </div>
             </li>
             <li>
-              <img src="assets/images/icon_bike.png" width="64" height="64" alt="Icon Bike">
+              <img src="assets/images/icon_talk.png" width="64" height="64" alt="Icon Talk">
               <div class="contain">
                 <h3>WEEKLY 1 ON 1 coaching CALLS</h3>
                 <p>Work with Kris on a one-on-one basis to solve individual issues and achieve personal breakthroughs.</p>
               </div>
             </li>
             <li>
-              <img src="assets/images/icon_bike.png" width="64" height="64" alt="Icon Bike">
+              <img src="assets/images/icon_clock.png" width="64" height="64" alt="Icon Clock">
               <div class="contain">
                 <h3>ANYTIME ACCESS COACHING CALLS</h3>
                 <p>Access Kris by phone anytime to work and solve problems on the fly.</p>
@@ -127,7 +128,7 @@
               </div>
             </li>
             <li>
-              <img src="assets/images/icon_bike.png" width="64" height="64" alt="Icon Bike">
+              <img src="assets/images/icon_time.png" width="64" height="64" alt="Icon Time">
               <div class="contain">
                 <h3>FIT shops</h3>
                 <p>Get practical and learn hands on with  my Fitness and Nutrition workshops.</p>
@@ -241,7 +242,7 @@
               </li>
             </ul>
             <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
+            <div class="swiper-pagination swiper-pagination--1"></div>
 
           </div>
 
