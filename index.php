@@ -317,7 +317,7 @@
               <li>Those looking to cut pounds without hard work</li>
               <li>Those looking for a twelve-week program they can forget on the thirteenth</li>
               <li>Those who don’t believe their physical health and mental wellness are connected</li>
-              <li>Those looking for an “easy way”</li>
+              <li>Those looking for a faster "easy way"</li>
             </ul>
           </div>
         </div>
