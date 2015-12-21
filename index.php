@@ -10,9 +10,13 @@
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
 
+    <!--
+    <link rel="stylesheet" href="assets/styles/normalize.css">
     <link rel="stylesheet" href="assets/styles/main.css">
     <link rel="stylesheet" href="assets/styles/swiper.min.css">
     <link rel="stylesheet" href="assets/styles/magnific-popup.css">
+    -->
+    <link rel="stylesheet" href="assets/styles/main.min.css">
     <script src="assets/scripts/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>
