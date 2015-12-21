@@ -340,7 +340,7 @@
 
     <footer class="site-footer">
       <div class="wrap">
-        <p class="site-footer__social">FOLLOW FREEDOM 13: <a href="https://www.facebook.com/BodiesByDesignFitness"><?= file_get_contents('assets/images/fbsocial.svg') ?></a> <a href="https://www.instagram.com/bodiesbydesignfitness/"><?= file_get_contents('assets/images/instsocial.svg') ?></a></p>
+        <p class="site-footer__social">FOLLOW FREEDOM 13: <a href="https://www.facebook.com/KristopherJSimpson"><?= file_get_contents('assets/images/fbsocial.svg') ?></a> <a href="http://instagram.com/krisjsimpson"><?= file_get_contents('assets/images/instsocial.svg') ?></a></p>
         <p class="site-footer__copy">© <?= date('Y') ?> FREEDOM 13</p>
       </div>
     </footer>
