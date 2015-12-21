@@ -292,7 +292,7 @@ ul.list-inline {
 
 /**** STORY ****/
 .story {
-  background: #0063a7 url(../images/bg-story.jpg) no-repeat top center;
+  background: #0063a7 url(../images/bg-story.jpg) no-repeat top center fixed;
   background-size: cover;
   color: white;
   text-align: center;
@@ -401,7 +401,7 @@ ul.list-inline {
 
 /**** TESTIMONIALS ****/
 .testimonials {
-  background: #29182c url(../images/bg-testimonials.jpg) no-repeat top center;
+  background: #29182c url(../images/bg-testimonials.jpg) no-repeat top center fixed;
   background-size: cover;
   padding: 3em 0 1em 0;
   text-align: center;
@@ -419,10 +419,20 @@ ul.list-inline {
   .testimonial-slider blockquote {
     overflow: hidden;
     text-align: left;
+    margin: 0;
   }
+    .testimonial-slider blockquote > p {
+      margin: 0;
+    }
+
   @media ( min-width: 50em ) {
+    .testimonial {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
     .testimonial__images {
-      float: left;
+      min-width: 440px;
       margin-right: 2em;
     }
   }

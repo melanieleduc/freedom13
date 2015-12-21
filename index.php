@@ -233,30 +233,58 @@
           <div class="swiper-container testimonial-slider">
             <ul class="swiper-wrapper slider">
               <li class="swiper-slide">
-                <div class="testimonial__images">
-                  <figure>
-                    <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
-                    <figcaption>Before</figcaption>
-                  </figure>
-                  <figure>
-                    <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
-                    <figcaption>After</figcaption>
-                  </figure>
+                <div class="testimonial">
+                  <div class="testimonial__images">
+                    <figure>
+                      <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
+                      <figcaption>Before</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                      <figcaption>After</figcaption>
+                    </figure>
+                  </div>
+                  <blockquote>
+                    <p>It is hard work, but so very rewarding.  The changes are obviously evident to everyone around me, and I'm slowly starting to grasp, yep, they're talking about me.  The one that's looking for more fun, the one that adds her opinions to group conversations, the one who's not hiding in basic black wardrobe clothing anymore, and we could go on and on?.  From all the years of dieting, this program has made the most sense for me and I am forever changed?</p>
+                    <cite><a href="http://www.bodiesbydesign.ca/the-results/profiles-in-progress-weight-loss-exercise-results/mary-acquires-the-fitness-habit-for-success/" data-toggle="lightbox">Mary</a></cite>
+                  </blockquote>
                 </div>
-                <blockquote>
-                  <p>I think for me the 'aha' moment was realizing that this ​program ​was not a diet that had a beginning and an end, that it was going to be something that was a lifestyle change and was going to be forever. 12 weeks is a great foundation of learning and provides the coaching and support to bring about new habits for health, exercise, nutrition and for health​.  It truly was transformational​.</p>
-                  <cite><a href="#" data-toggle="lightbox">Susan</a></cite>
-                </blockquote>
               </li>
               <li class="swiper-slide">
-                <div class="testimonial__images">
-                  <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
-                  <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                <div class="testimonial">
+                  <div class="testimonial__images">
+                    <figure>
+                      <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
+                      <figcaption>Before</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                      <figcaption>After</figcaption>
+                    </figure>
+                  </div>
+                  <blockquote>
+                    <p>I think for me the 'aha' moment was realizing that this ​program ​was not a diet that had a beginning and an end, that it was going to be something that was a lifestyle change and was going to be forever. 12 weeks is a great foundation of learning and provides the coaching and support to bring about new habits for health, exercise, nutrition and for health​.  It truly was transformational​.</p>
+                    <cite><a href="http://www.bodiesbydesign.ca/the-results/client-star-profiles-weight-loss-exercise-results/decades-diets-results/" data-toggle="lightbox">Susan</a></cite>
+                  </blockquote>
                 </div>
-                <blockquote>
-                  <p>I think for me the 'aha' moment was realizing that this ​program ​was not a diet that had a beginning and an end, that it was going to be something that was a lifestyle change and was going to be forever. 12 weeks is a great foundation of learning and provides the coaching and support to bring about new habits for health, exercise, nutrition and for health​.  It truly was transformational​.</p>
-                  <cite><a href="#" data-toggle="lightbox">Susan</a></cite>
-                </blockquote>
+              </li>
+              <li class="swiper-slide">
+                <div class="testimonial">
+                  <div class="testimonial__images">
+                    <figure>
+                      <img src="assets/images/Susan-K_before.png" alt="Susie Before" width="186" height="186">
+                      <figcaption>Before</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="assets/images/Susan-K_after.png" alt="Susie After" width="186" height="186">
+                      <figcaption>After</figcaption>
+                    </figure>
+                  </div>
+                  <blockquote>
+                    <p>This program worked for me because it wasn't like a  typical restrictive diet that I have been on countless times only to gain all my weight back</p>
+                    <cite><a href="#" data-toggle="lightbox">Catti</a></cite>
+                  </blockquote>
+                </div>
               </li>
             </ul>
             <!-- If we need pagination -->
