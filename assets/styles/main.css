@@ -188,6 +188,7 @@ ul.list-inline {
     float: left;
     text-align: left;
     margin-bottom: 1em;
+    text-transform: uppercase;
   }
   .site-header__menu {
     float: right;
