@@ -107,7 +107,6 @@
           <div class="process-steps__slider">
             <div class="swiper-container">
                 <ul class="swiper-wrapper slider">
-                  <li class="swiper-slide"><img src="assets/images/gallery-1/group_1.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_2.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_3.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_4.jpg"></li>
