@@ -2,6 +2,7 @@
   date_default_timezone_set("America/Montreal");
   header("X-XSS-Protection: 0");
   header('X-Frame-Options: SAMEORIGIN');
+  //testingcommit
 ?><!DOCTYPE html>
 <html class="no-js" lang="en_CA">
   <head>
