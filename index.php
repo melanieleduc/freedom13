@@ -1,4 +1,5 @@
 <?php
+  date_default_timezone_set("America/Montreal");
   header("X-XSS-Protection: 0");
   header('X-Frame-Options: SAMEORIGIN');
 ?><!DOCTYPE html>
@@ -27,7 +28,13 @@
     <meta name="msapplication-TileColor" content="#ffffff ">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff ">
-    <link rel="stylesheet" href="assets/styles/main.min.css">
+
+    <link rel="stylesheet" href="assets/styles/normalize.css">
+    <link rel="stylesheet" href="assets/styles/main.css">
+    <link rel="stylesheet" href="assets/styles/swiper.min.css">
+    <link rel="stylesheet" href="assets/styles/magnific-popup.css">
+
+    <!-- <link rel="stylesheet" href="assets/styles/main.min.css"> -->
     <script src="assets/scripts/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>

@@ -210,7 +210,11 @@ ul.list-inline {
   color: #0063a7;
   padding: 9em 5em 2em 5em;
 }
-
+  @media(min-width: 100em) {
+    .hero {
+      padding: 20em 5em 2em 10em;
+    }
+  }
 .section {
   padding-top: 2.5em;
   padding-bottom: 2.5em;
@@ -240,6 +244,11 @@ ul.list-inline {
   width: 100%;
   height: auto;
 }
+  .process-steps {
+    max-width: 1400px;
+    margin: auto;
+  }
+
   @media (min-width: 60em) {
     .process-steps__slider {
       width: 50%;
@@ -315,10 +324,10 @@ ul.list-inline {
 
   @media( min-width: 60em ) {
     .story .wrap {
-      margin-left: 280px;
-      margin-right: 280px;
-      max-width: none;
-      width: 725px;
+      margin-left: auto;
+      margin-right: auto;
+      width: calc(100% - 600px);
+      max-width: 725px;
     }
     .story-slider {
       position: absolute;
@@ -331,6 +340,10 @@ ul.list-inline {
     .story-slider--right {
       left: auto;
       right: 0;
+    }
+  }
+  @media( min-width: 100em ) {
+    .story .wrap {
     }
   }
 
