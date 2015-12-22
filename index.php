@@ -1,13 +1,15 @@
-<!DOCTYPE html>
+<?php
+  header("X-XSS-Protection: 0");
+  header('X-Frame-Options: SAMEORIGIN');
+?><!DOCTYPE html>
 <html class="no-js" lang="en_CA">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Freedom 13 Personal Training</title>
+    <title>Freedom 13 – Your health and lifestyle revolution</title>
     <meta name="description" content="Freedom 13 is a life-changing educational platform designed to change how you live">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- ICONS -->
+    <link rel="canonical" href="http://freedom-13.com">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -25,13 +27,6 @@
     <meta name="msapplication-TileColor" content="#ffffff ">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff ">
-
-    <!--
-    <link rel="stylesheet" href="assets/styles/normalize.css">
-    <link rel="stylesheet" href="assets/styles/main.css">
-    <link rel="stylesheet" href="assets/styles/swiper.min.css">
-    <link rel="stylesheet" href="assets/styles/magnific-popup.css">
-    -->
     <link rel="stylesheet" href="assets/styles/main.min.css">
     <script src="assets/scripts/vendor/modernizr-2.8.3.min.js"></script>
   </head>
@@ -102,20 +97,14 @@
         </div>
         <div class="process-steps cf">
           <div class="process-steps__slider">
-
-            <!-- Slider main container -->
             <div class="swiper-container">
-                <!-- Additional required wrapper -->
-
                 <ul class="swiper-wrapper slider">
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_1.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_2.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_3.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_4.jpg"></li>
                 </ul>
-                <!-- If we need pagination -->
                 <div class="swiper-pagination swiper-pagination--0"></div>
-
             </div>
           </div>
           <ul class="process-steps__list">
@@ -170,8 +159,8 @@
         <div class="story-slider story-slider--left">
           <div class="swiper-container">
               <ul class="swiper-wrapper slider">
-                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before1.jpg"></li>
-                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before2.jpg"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before1.jpg" alt="Kris Before Front"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before2.jpg" alt="Kris Before Side"></li>
               </ul>
               <div class="swiper-pagination swiper-pagination--1"></div>
           </div>
@@ -179,14 +168,12 @@
         <div class="story-slider story-slider--right">
           <div class="swiper-container">
               <ul class="swiper-wrapper slider">
-                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after1.jpg"></li>
-                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after2.jpg"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after1.jpg" alt="Kris After Front"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after2.jpg" alt="Kris After Side"></li>
               </ul>
               <div class="swiper-pagination swiper-pagination--2"></div>
           </div>
         </div>
-        <!-- <img src="assets/images/Kris_before1.jpg" alt="Kris (before)" width="518" height="1054">
-        <img src="assets/images/Kris_after2.jpg" alt="Kris (after)" width="518" height="1054"> -->
         <div class="wrap">
           <h1>MY STORY</h1>
           <h2>I USED TO BE OVERWEIGHT, unhealthy AND UNHAPPY</h2>
@@ -307,7 +294,6 @@
                 </div>
               </li>
             </ul>
-            <!-- If we need pagination -->
             <div class="swiper-pagination swiper-pagination--3"></div>
 
           </div>
@@ -370,14 +356,5 @@
     <script src="assets/scripts/swiper.jquery.min.js"></script>
     <script src="assets/scripts/jquery.magnific-popup.min.js"></script>
     <script src="assets/scripts/main.js"></script>
-
-    <script>
-        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='https://www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-        ga('create','UA-38554438-1','auto');ga('send','pageview');
-    </script>
   </body>
 </html>
