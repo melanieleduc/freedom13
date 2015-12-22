@@ -11,7 +11,7 @@ $(function() {
   $('[data-toggle="lightbox"]').magnificPopup({type:'iframe'});
 
   //SLIDER
-  var sliders = [];
+  sliders = [];
 
   $('.swiper-container').each(function(index, element){
 
@@ -19,10 +19,18 @@ $(function() {
       var slider = new Swiper('.s'+index, {
         direction: 'horizontal',
         loop: true,
+        prevButton: '.swiper-button-prev--' + index,
+        nextButton: '.swiper-button-next--' + index,
         pagination: '.swiper-pagination--' + index,
       });
       sliders.push(slider);
-
   });
+
+  // $('.swiper-pagination-bullet').on('click', function(event){
+  //   event.preventDefault();
+  //   var index = $(".swiper-pagination-bullet").index(event.currentTarget);
+  //   sliders.slider.slide(index);
+  // });
+
 
 });

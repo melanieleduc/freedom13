@@ -111,6 +111,8 @@
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_3.jpg"></li>
                   <li class="swiper-slide"><img src="assets/images/gallery-1/group_4.jpg"></li>
                 </ul>
+                <div class="swiper-button-prev swiper-button-prev--0"></div>
+                <div class="swiper-button-next swiper-button-next--0"></div>
                 <div class="swiper-pagination swiper-pagination--0"></div>
             </div>
           </div>
@@ -166,9 +168,11 @@
         <div class="story-slider story-slider--left">
           <div class="swiper-container">
               <ul class="swiper-wrapper slider">
-                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before1.jpg" alt="Kris Before Front"></li>
                 <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before2.jpg" alt="Kris Before Side"></li>
+                <li class="swiper-slide"><img src="assets/images/gallery-2/Kris_before1.jpg" alt="Kris Before Front"></li>
               </ul>
+              <div class="swiper-button-prev swiper-button-prev--2 swiper-button-prev--1"></div>
+              <div class="swiper-button-next swiper-button-next--2 swiper-button-next--1"></div>
               <div class="swiper-pagination swiper-pagination--1"></div>
           </div>
         </div>
@@ -178,6 +182,8 @@
                 <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after1.jpg" alt="Kris After Front"></li>
                 <li class="swiper-slide"><img src="assets/images/gallery-3/Kris_after2.jpg" alt="Kris After Side"></li>
               </ul>
+              <div class="swiper-button-prev swiper-button-prev--2 swiper-button-prev--1"></div>
+              <div class="swiper-button-next swiper-button-next--2 swiper-button-next--1"></div>
               <div class="swiper-pagination swiper-pagination--2"></div>
           </div>
         </div>
@@ -301,6 +307,8 @@
                 </div>
               </li>
             </ul>
+            <div class="swiper-button-prev swiper-button-prev--3"></div>
+            <div class="swiper-button-next swiper-button-next--3"></div>
             <div class="swiper-pagination swiper-pagination--3"></div>
 
           </div>

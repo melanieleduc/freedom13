@@ -249,6 +249,9 @@ ul.list-inline {
     margin: auto;
   }
 
+  .swiper-button-next.swiper-button-next--0 {
+    right: 40px;
+  }
   @media (min-width: 60em) {
     .process-steps__slider {
       width: 50%;
@@ -440,6 +443,9 @@ ul.list-inline {
 
   .testimonial__images img {
     border-radius: 50%;
+  }
+  .testimonial {
+    padding: 0 50px;
   }
   @media ( min-width: 50em ) {
     .testimonial {
