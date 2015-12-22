@@ -42,12 +42,12 @@
     <header class="site-header">
       <div class="wrap site-header__container">
         <div class="site-header__cta">
-          <a href="https://calendly.com/kristopher" title="Call Kris">
+          <a href="https://calendly.com/kristopher/book-a-call-with-kris" title="Call Kris">
             <?= file_get_contents("assets/images/phone.svg") ?> Book a call with kris
           </a>
         </div>
         <div class="site-header__menu">
-          <a href="https://calendly.com/kristopher"><?= file_get_contents("assets/images/hamburger.svg") ?></a>
+          <a href="https://calendly.com/kristopher/book-a-call-with-kris"><?= file_get_contents("assets/images/hamburger.svg") ?></a>
         </div>
         <h1 class="site-logo"><img src="assets/images/freedom-13-logo.png" alt="Freedom 13"></h1>
       </div>
@@ -160,7 +160,7 @@
       <aside class="section cta">
         <div class="wrap">
           <h1 class="h2">are you ready to take control of your happiness?</h1>
-          <a href="https://calendly.com/kristopher" class="btn" role="button">BOOK A CALL</a>
+          <a href="https://calendly.com/kristopher/book-a-call-with-kris" class="btn" role="button">BOOK A CALL</a>
         </div>
       </aside>
 
@@ -352,7 +352,7 @@
   so please register in advance to reserve your spot for the next session.</p>
 
           <p class="lead">Ready to commit to your health, happiness and freedom?</p>
-          <a class="btn" href="https://calendly.com/kristopher">Book a call now</a>
+          <a class="btn" href="https://calendly.com/kristopher/book-a-call-with-kris">Book a call now</a>
         </div>
       </section>
 
