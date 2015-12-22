@@ -259,7 +259,7 @@
                     </figure>
                   </div>
                   <blockquote>
-                    <p>It is hard work, but so very rewarding.  The changes are obviously evident to everyone around me, and I'm slowly starting to grasp, yep, they're talking about me.  The one that's looking for more fun, the one that adds her opinions to group conversations, the one who's not hiding in basic black wardrobe clothing anymore, and we could go on and on?.  From all the years of dieting, this program has made the most sense for me and I am forever changed?</p>
+                    <p>It is hard work, but so very rewarding.  The changes are obviously evident to everyone around me, and I'm slowly starting to grasp, yep, they're talking about me.  The one that's looking for more fun, the one that adds her opinions to group conversations, the one who's not hiding in basic black wardrobe clothing anymore, and we could go on and on?.  From all the years of dieting, this program has made the most sense for me and I am forever changed.</p>
                     <cite><a href="http://www.bodiesbydesign.ca/the-results/profiles-in-progress-weight-loss-exercise-results/mary-acquires-the-fitness-habit-for-success/" data-toggle="lightbox">Mary</a></cite>
                   </blockquote>
                 </div>
