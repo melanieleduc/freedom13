@@ -56,7 +56,7 @@
     <main>
       <div class="hero">
         <div class="wrap">
-          <a href="https://www.youtube.com/watch?v=e6O31gznsWs" data-toggle="lightbox" class="hero__play">
+          <a href="https://www.youtube.com/watch?v=LMBKT8ntM0I" data-toggle="lightbox" class="hero__play">
             <?= file_get_contents("assets/images/play.svg") ?>
           </a>
           <div class="hero__caption">
@@ -249,7 +249,6 @@
           <h1>happy words</h1>
           <h2>from people who have found freedom through my program</h2>
           <hr>
-
           <div class="swiper-container testimonial-slider">
             <ul class="swiper-wrapper slider">
               <li class="swiper-slide">
